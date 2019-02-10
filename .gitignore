@@ -1,0 +1,9 @@
+*.h
+/lib/
+*.pro
+/res/
+/output/
+/Boggle.pro.user.c1e4df6
+/.DS_Store
+/Boggle.pro.user
+*.txt
